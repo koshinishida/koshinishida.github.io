@@ -6,19 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Koshi Nishida
 
-東京大学大学院 経済学研究科 統計学コース 博士課程の西田鴻志です。
-計量経済学における識別問題、多期間決定モデル、因果推論の応用に関心を持っています。
+I am a Ph.D. student in Economics (Statistics Course) at the Graduate School of Economics, The University of Tokyo.  
+My research focuses on econometric theory and microeconometrics, with a particular interest in nonparametric identification, discrete choice models, and causal inference / policy evaluation.
 
-## 専門分野 / Research Interests
-- 計量経済学理論 (Econometric Theory)
-- 微視的計量経済学・因果推論 (Microeconometrics & Causal Inference)
-- 構造推定・離散選択モデル (Structural Estimation & Discrete Choice)
+## Research Interests
+- **Primary:** Econometric Theory, Microeconometrics
+- **Keywords:** Nonparametric Identification, Partial Identification, Causal Inference, Regression Discontinuity Designs, Discrete Choice Models, Welfare Analysis
 
-## 学歴 / Education
-- **修士（経済学）** 東京大学大学院 経済学研究科 統計学コース（2025年 - 現在）
-- **学士（経済学）** 〇〇大学 〇〇学部（202X年修了）
+<!--
+## Education
+- **Ph.D. in Economics (Statistics Course)**, The University of Tokyo (2025 – Present)
+- **M.A. in Economics**, The University of Tokyo (2025)
+- **B.A. in Economics**, [Your University] (202X)
+-->
 
-## 連絡先 / Contact
-- Email: `your-email [at] e.u-tokyo.ac.jp`
-- 研究室: 東京大学本郷キャンパス 経済学研究科棟 〇〇号室
+## Contact
+- **Email:** `nishida-koshi841 [at] g.ecc.u-tokyo.ac.jp`
+- **Affiliation:** Graduate School of Economics, The University of Tokyo  
+  <!-- Room XXX, Economics Research Building, Hongo Campus, Bunkyo-ku, Tokyo -->
