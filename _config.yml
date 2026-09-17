@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Koshi Nishida"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. candidate, Department of Statistics, Graduate School of Economics, The University of Tokyo"
+  location         : "Tokyo, Japan"
+  employer         : "The University of Tokyo"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nishida-koshi841@g.ecc.u-tokyo.ac.jp" 
 
   # Academic websites
   academia         : # URL
