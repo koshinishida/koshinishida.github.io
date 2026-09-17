@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Koshi Nishida
-
 I am a Ph.D. student in Economics (Statistics Course) at the Graduate School of Economics, The University of Tokyo.  
 My research focuses on econometric theory and microeconometrics, with a particular interest in nonparametric identification, discrete choice models, and causal inference / policy evaluation.
 
